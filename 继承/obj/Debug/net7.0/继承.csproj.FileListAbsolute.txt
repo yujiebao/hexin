@@ -1,0 +1,15 @@
+F:\unity\TangCourse\C#\核心\CSharp核心\继承\bin\Debug\net7.0\继承.exe
+F:\unity\TangCourse\C#\核心\CSharp核心\继承\bin\Debug\net7.0\继承.deps.json
+F:\unity\TangCourse\C#\核心\CSharp核心\继承\bin\Debug\net7.0\继承.runtimeconfig.json
+F:\unity\TangCourse\C#\核心\CSharp核心\继承\bin\Debug\net7.0\继承.dll
+F:\unity\TangCourse\C#\核心\CSharp核心\继承\bin\Debug\net7.0\继承.pdb
+F:\unity\TangCourse\C#\核心\CSharp核心\继承\obj\Debug\net7.0\继承.csproj.AssemblyReference.cache
+F:\unity\TangCourse\C#\核心\CSharp核心\继承\obj\Debug\net7.0\继承.GeneratedMSBuildEditorConfig.editorconfig
+F:\unity\TangCourse\C#\核心\CSharp核心\继承\obj\Debug\net7.0\继承.AssemblyInfoInputs.cache
+F:\unity\TangCourse\C#\核心\CSharp核心\继承\obj\Debug\net7.0\继承.AssemblyInfo.cs
+F:\unity\TangCourse\C#\核心\CSharp核心\继承\obj\Debug\net7.0\继承.csproj.CoreCompileInputs.cache
+F:\unity\TangCourse\C#\核心\CSharp核心\继承\obj\Debug\net7.0\继承.dll
+F:\unity\TangCourse\C#\核心\CSharp核心\继承\obj\Debug\net7.0\refint\继承.dll
+F:\unity\TangCourse\C#\核心\CSharp核心\继承\obj\Debug\net7.0\继承.pdb
+F:\unity\TangCourse\C#\核心\CSharp核心\继承\obj\Debug\net7.0\继承.genruntimeconfig.cache
+F:\unity\TangCourse\C#\核心\CSharp核心\继承\obj\Debug\net7.0\ref\继承.dll

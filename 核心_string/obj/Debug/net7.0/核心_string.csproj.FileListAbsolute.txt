@@ -1,0 +1,15 @@
+F:\unity\TangCourse\C#\核心\CSharp核心\核心_string\bin\Debug\net7.0\核心_string.exe
+F:\unity\TangCourse\C#\核心\CSharp核心\核心_string\bin\Debug\net7.0\核心_string.deps.json
+F:\unity\TangCourse\C#\核心\CSharp核心\核心_string\bin\Debug\net7.0\核心_string.runtimeconfig.json
+F:\unity\TangCourse\C#\核心\CSharp核心\核心_string\bin\Debug\net7.0\核心_string.dll
+F:\unity\TangCourse\C#\核心\CSharp核心\核心_string\bin\Debug\net7.0\核心_string.pdb
+F:\unity\TangCourse\C#\核心\CSharp核心\核心_string\obj\Debug\net7.0\核心_string.csproj.AssemblyReference.cache
+F:\unity\TangCourse\C#\核心\CSharp核心\核心_string\obj\Debug\net7.0\核心_string.GeneratedMSBuildEditorConfig.editorconfig
+F:\unity\TangCourse\C#\核心\CSharp核心\核心_string\obj\Debug\net7.0\核心_string.AssemblyInfoInputs.cache
+F:\unity\TangCourse\C#\核心\CSharp核心\核心_string\obj\Debug\net7.0\核心_string.AssemblyInfo.cs
+F:\unity\TangCourse\C#\核心\CSharp核心\核心_string\obj\Debug\net7.0\核心_string.csproj.CoreCompileInputs.cache
+F:\unity\TangCourse\C#\核心\CSharp核心\核心_string\obj\Debug\net7.0\核心_string.dll
+F:\unity\TangCourse\C#\核心\CSharp核心\核心_string\obj\Debug\net7.0\refint\核心_string.dll
+F:\unity\TangCourse\C#\核心\CSharp核心\核心_string\obj\Debug\net7.0\核心_string.pdb
+F:\unity\TangCourse\C#\核心\CSharp核心\核心_string\obj\Debug\net7.0\核心_string.genruntimeconfig.cache
+F:\unity\TangCourse\C#\核心\CSharp核心\核心_string\obj\Debug\net7.0\ref\核心_string.dll

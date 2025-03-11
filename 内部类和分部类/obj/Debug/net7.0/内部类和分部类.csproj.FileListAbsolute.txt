@@ -1,0 +1,15 @@
+F:\unity\TangCourse\C#\核心\CSharp核心\内部类和分部类\bin\Debug\net7.0\内部类和分部类.exe
+F:\unity\TangCourse\C#\核心\CSharp核心\内部类和分部类\bin\Debug\net7.0\内部类和分部类.deps.json
+F:\unity\TangCourse\C#\核心\CSharp核心\内部类和分部类\bin\Debug\net7.0\内部类和分部类.runtimeconfig.json
+F:\unity\TangCourse\C#\核心\CSharp核心\内部类和分部类\bin\Debug\net7.0\内部类和分部类.dll
+F:\unity\TangCourse\C#\核心\CSharp核心\内部类和分部类\bin\Debug\net7.0\内部类和分部类.pdb
+F:\unity\TangCourse\C#\核心\CSharp核心\内部类和分部类\obj\Debug\net7.0\内部类和分部类.csproj.AssemblyReference.cache
+F:\unity\TangCourse\C#\核心\CSharp核心\内部类和分部类\obj\Debug\net7.0\内部类和分部类.GeneratedMSBuildEditorConfig.editorconfig
+F:\unity\TangCourse\C#\核心\CSharp核心\内部类和分部类\obj\Debug\net7.0\内部类和分部类.AssemblyInfoInputs.cache
+F:\unity\TangCourse\C#\核心\CSharp核心\内部类和分部类\obj\Debug\net7.0\内部类和分部类.AssemblyInfo.cs
+F:\unity\TangCourse\C#\核心\CSharp核心\内部类和分部类\obj\Debug\net7.0\内部类和分部类.csproj.CoreCompileInputs.cache
+F:\unity\TangCourse\C#\核心\CSharp核心\内部类和分部类\obj\Debug\net7.0\内部类和分部类.dll
+F:\unity\TangCourse\C#\核心\CSharp核心\内部类和分部类\obj\Debug\net7.0\refint\内部类和分部类.dll
+F:\unity\TangCourse\C#\核心\CSharp核心\内部类和分部类\obj\Debug\net7.0\内部类和分部类.pdb
+F:\unity\TangCourse\C#\核心\CSharp核心\内部类和分部类\obj\Debug\net7.0\内部类和分部类.genruntimeconfig.cache
+F:\unity\TangCourse\C#\核心\CSharp核心\内部类和分部类\obj\Debug\net7.0\ref\内部类和分部类.dll

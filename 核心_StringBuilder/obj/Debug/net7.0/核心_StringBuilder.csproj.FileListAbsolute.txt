@@ -1,0 +1,15 @@
+F:\unity\TangCourse\C#\核心\CSharp核心\核心_StringBuilder\bin\Debug\net7.0\核心_StringBuilder.exe
+F:\unity\TangCourse\C#\核心\CSharp核心\核心_StringBuilder\bin\Debug\net7.0\核心_StringBuilder.deps.json
+F:\unity\TangCourse\C#\核心\CSharp核心\核心_StringBuilder\bin\Debug\net7.0\核心_StringBuilder.runtimeconfig.json
+F:\unity\TangCourse\C#\核心\CSharp核心\核心_StringBuilder\bin\Debug\net7.0\核心_StringBuilder.dll
+F:\unity\TangCourse\C#\核心\CSharp核心\核心_StringBuilder\bin\Debug\net7.0\核心_StringBuilder.pdb
+F:\unity\TangCourse\C#\核心\CSharp核心\核心_StringBuilder\obj\Debug\net7.0\核心_StringBuilder.csproj.AssemblyReference.cache
+F:\unity\TangCourse\C#\核心\CSharp核心\核心_StringBuilder\obj\Debug\net7.0\核心_StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+F:\unity\TangCourse\C#\核心\CSharp核心\核心_StringBuilder\obj\Debug\net7.0\核心_StringBuilder.AssemblyInfoInputs.cache
+F:\unity\TangCourse\C#\核心\CSharp核心\核心_StringBuilder\obj\Debug\net7.0\核心_StringBuilder.AssemblyInfo.cs
+F:\unity\TangCourse\C#\核心\CSharp核心\核心_StringBuilder\obj\Debug\net7.0\核心_StringBuilder.csproj.CoreCompileInputs.cache
+F:\unity\TangCourse\C#\核心\CSharp核心\核心_StringBuilder\obj\Debug\net7.0\核心_StringBuilder.dll
+F:\unity\TangCourse\C#\核心\CSharp核心\核心_StringBuilder\obj\Debug\net7.0\refint\核心_StringBuilder.dll
+F:\unity\TangCourse\C#\核心\CSharp核心\核心_StringBuilder\obj\Debug\net7.0\核心_StringBuilder.pdb
+F:\unity\TangCourse\C#\核心\CSharp核心\核心_StringBuilder\obj\Debug\net7.0\核心_StringBuilder.genruntimeconfig.cache
+F:\unity\TangCourse\C#\核心\CSharp核心\核心_StringBuilder\obj\Debug\net7.0\ref\核心_StringBuilder.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "变长参数和默认参数/1.0.0": {
+        "runtime": {
+          "变长参数和默认参数.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "变长参数和默认参数/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

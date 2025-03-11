@@ -1,0 +1,5 @@
+F:\unity\TangCourse\C#\核心\CSharp核心\接口\obj\Debug\net7.0\接口.csproj.AssemblyReference.cache
+F:\unity\TangCourse\C#\核心\CSharp核心\接口\obj\Debug\net7.0\接口.GeneratedMSBuildEditorConfig.editorconfig
+F:\unity\TangCourse\C#\核心\CSharp核心\接口\obj\Debug\net7.0\接口.AssemblyInfoInputs.cache
+F:\unity\TangCourse\C#\核心\CSharp核心\接口\obj\Debug\net7.0\接口.AssemblyInfo.cs
+F:\unity\TangCourse\C#\核心\CSharp核心\接口\obj\Debug\net7.0\接口.csproj.CoreCompileInputs.cache

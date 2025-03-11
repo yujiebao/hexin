@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "里氏替换原则/1.0.0": {
+        "runtime": {
+          "里氏替换原则.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "里氏替换原则/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+F:\unity\TangCourse\C#\核心\CSharp核心\索引器\bin\Debug\net7.0\索引器.exe
+F:\unity\TangCourse\C#\核心\CSharp核心\索引器\bin\Debug\net7.0\索引器.deps.json
+F:\unity\TangCourse\C#\核心\CSharp核心\索引器\bin\Debug\net7.0\索引器.runtimeconfig.json
+F:\unity\TangCourse\C#\核心\CSharp核心\索引器\bin\Debug\net7.0\索引器.dll
+F:\unity\TangCourse\C#\核心\CSharp核心\索引器\bin\Debug\net7.0\索引器.pdb
+F:\unity\TangCourse\C#\核心\CSharp核心\索引器\obj\Debug\net7.0\索引器.csproj.AssemblyReference.cache
+F:\unity\TangCourse\C#\核心\CSharp核心\索引器\obj\Debug\net7.0\索引器.GeneratedMSBuildEditorConfig.editorconfig
+F:\unity\TangCourse\C#\核心\CSharp核心\索引器\obj\Debug\net7.0\索引器.AssemblyInfoInputs.cache
+F:\unity\TangCourse\C#\核心\CSharp核心\索引器\obj\Debug\net7.0\索引器.AssemblyInfo.cs
+F:\unity\TangCourse\C#\核心\CSharp核心\索引器\obj\Debug\net7.0\索引器.csproj.CoreCompileInputs.cache
+F:\unity\TangCourse\C#\核心\CSharp核心\索引器\obj\Debug\net7.0\索引器.dll
+F:\unity\TangCourse\C#\核心\CSharp核心\索引器\obj\Debug\net7.0\refint\索引器.dll
+F:\unity\TangCourse\C#\核心\CSharp核心\索引器\obj\Debug\net7.0\索引器.pdb
+F:\unity\TangCourse\C#\核心\CSharp核心\索引器\obj\Debug\net7.0\索引器.genruntimeconfig.cache
+F:\unity\TangCourse\C#\核心\CSharp核心\索引器\obj\Debug\net7.0\ref\索引器.dll

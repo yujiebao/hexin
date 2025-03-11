@@ -1,0 +1,15 @@
+F:\unity\TangCourse\C#\核心\CSharp核心\万物之父中的方法\bin\Debug\net7.0\万物之父中的方法.exe
+F:\unity\TangCourse\C#\核心\CSharp核心\万物之父中的方法\bin\Debug\net7.0\万物之父中的方法.deps.json
+F:\unity\TangCourse\C#\核心\CSharp核心\万物之父中的方法\bin\Debug\net7.0\万物之父中的方法.runtimeconfig.json
+F:\unity\TangCourse\C#\核心\CSharp核心\万物之父中的方法\bin\Debug\net7.0\万物之父中的方法.dll
+F:\unity\TangCourse\C#\核心\CSharp核心\万物之父中的方法\bin\Debug\net7.0\万物之父中的方法.pdb
+F:\unity\TangCourse\C#\核心\CSharp核心\万物之父中的方法\obj\Debug\net7.0\万物之父中的方法.csproj.AssemblyReference.cache
+F:\unity\TangCourse\C#\核心\CSharp核心\万物之父中的方法\obj\Debug\net7.0\万物之父中的方法.GeneratedMSBuildEditorConfig.editorconfig
+F:\unity\TangCourse\C#\核心\CSharp核心\万物之父中的方法\obj\Debug\net7.0\万物之父中的方法.AssemblyInfoInputs.cache
+F:\unity\TangCourse\C#\核心\CSharp核心\万物之父中的方法\obj\Debug\net7.0\万物之父中的方法.AssemblyInfo.cs
+F:\unity\TangCourse\C#\核心\CSharp核心\万物之父中的方法\obj\Debug\net7.0\万物之父中的方法.csproj.CoreCompileInputs.cache
+F:\unity\TangCourse\C#\核心\CSharp核心\万物之父中的方法\obj\Debug\net7.0\万物之父中的方法.dll
+F:\unity\TangCourse\C#\核心\CSharp核心\万物之父中的方法\obj\Debug\net7.0\refint\万物之父中的方法.dll
+F:\unity\TangCourse\C#\核心\CSharp核心\万物之父中的方法\obj\Debug\net7.0\万物之父中的方法.pdb
+F:\unity\TangCourse\C#\核心\CSharp核心\万物之父中的方法\obj\Debug\net7.0\万物之父中的方法.genruntimeconfig.cache
+F:\unity\TangCourse\C#\核心\CSharp核心\万物之父中的方法\obj\Debug\net7.0\ref\万物之父中的方法.dll
